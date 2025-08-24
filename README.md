@@ -24,17 +24,15 @@ requirements.txt → Required dependencies
 - Scikit-learn  
 - Matplotlib, Seaborn, WordCloud
 -   
-## 🚀 How to Run
-1. Clone this repo:
-   bash
+## 🚀Clone this repo:
+  
    git clone https://github.com/<your-username>/PRODIGY_DS_04.git
    
-Install dependencies:
-bash
+
+#bash
 pip install -r requirements.txt
 
-Open Jupyter Notebook:
-bash
+#bash
 jupyter notebook notebooks/sentiment_analysis.ipynb
 
 
