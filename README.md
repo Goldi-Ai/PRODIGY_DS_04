@@ -40,7 +40,7 @@ Performance Metrics: The models were evaluated using accuracy and F1-score. Conf
 
 Naive Bayes vs Logistic Regression: Compared both models based on accuracy and F1-score, and concluded that Logistic Regression performed better in this case.
 
-Requirements
+#Requirements:
 
 Python 3.x
 
@@ -93,7 +93,10 @@ This project demonstrates the use of basic machine learning models for sentiment
 learning models (e.g., LSTM) for even higher accuracy.
 
 #Directory Structure:
+
 Sentiment-Analysis-Twitter/
+
+
 ├── dataset/
 │   └── twitter_training.csv        
 ├── sentiment_analysis.ipynb        
